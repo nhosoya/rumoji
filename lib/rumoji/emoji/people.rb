@@ -105,6 +105,7 @@ module Rumoji
       self.new("\u{1F912}", [:face_thermometer, :face_with_thermometer], "FACE WITH THERMOMETER"),
       self.new("\u{1F915}", [:head_bandage, :face_with_head_bandage], "FACE WITH HEAD-BANDAGE"),
       self.new("\u{1F911}", [:money_mouth, :money_mouth_face], "MONEY-MOUTH FACE"),
+      self.new("\u{1F57A}", [:man_dancing], "MAN DANCING"),
       self.new("\u{1F916}", [:robot, :robot_face], "ROBOT FACE"),
       self.new("\u{1F575}", [:sleuth, :sleuth_or_spy], "SLEUTH OR SPY"),
       self.new("\u{1F3CB}", [:weight_lifter], "WEIGHT LIFTER"),
